@@ -44,7 +44,7 @@ function setup() {
 }
 
 function draw() {
-  background("green");
+  background("yellow");
   knifeSwooshSound.play()
   
   if(gameState===PLAY){
